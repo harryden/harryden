@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Harry
 
-<!--
-**harryden/harryden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Data Science & AI student at Chalmers University of Technology. Currently on sabbatical traveling, returning spring 2026.
 
-Here are some ideas to get you started:
+I work on problems at the intersection of building systems and understanding what makes them worth building. Previously backend developer at Burt Intelligence, working with advertising data pipelines for major media companies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests**: Machine learning systems, time series forecasting, NLP, distributed computing
+
+**Background**: Software Engineering (BSc), Data Science & AI (MSc in progress). Exchange semester at University of Waterloo.
+
+**Languages**: Swedish and English (native), Spanish (fluent)
+
+Reach me: harry.denell@gmail.com
