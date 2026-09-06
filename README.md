@@ -1,9 +1,11 @@
 ## Hi, I'm Harry
 
-MSc student in Data Science & AI at Chalmers University of Technology, with a background in Software Engineering (BSc) and an exchange semester in Computer Science at the University of Waterloo (Cheriton School of Computer Science). Currently preparing for a master's thesis in machine learning and data-intensive systems.
+MS Data Science & AI student at Chalmers University of Technology. One year left.
 
-Previously software developer at Burt Intelligence, engineering advertising data pipelines for media analytics platforms.
+Previously software developer at Burt Intelligence, working with advertising data pipelines for major media companies.
 
-Native in Swedish and English, fluent in Spanish.
+**Background**: Software Engineering (BSc), Data Science & AI (MSc in progress). Exchange semester in Computer Science at University of Waterloo (David R. Cheriton School of Computer Science).
 
-Contact: harry.denell@gmail.com
+**Languages**: Swedish and English (native), Spanish (fluent)
+
+Reach me: harry.denell@gmail.com
